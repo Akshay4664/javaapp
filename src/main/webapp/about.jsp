@@ -9,5 +9,6 @@
 <body>
 	<p>Welcome to jekins</p>
 	<h1>This is about page</h1>
+	<h1>This is not a joke this is a ghost</h1>
 </body>
 </html>
