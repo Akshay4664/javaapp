@@ -7,6 +7,7 @@
 <title>About page</title>
 </head>
 <body>
+	<p>Welcome to jekins</p>
 	<h1>This is about page</h1>
 </body>
 </html>
